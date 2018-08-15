@@ -1,0 +1,15 @@
+{
+    "name": "sun/suntest-for-laravel",
+    "authors": [
+        {
+            "name": "git",
+            "email": "13683234298@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sun\\Suntest\\": "src/"
+        }
+    }
+}
