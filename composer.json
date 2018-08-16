@@ -1,6 +1,6 @@
 {
     "name": "sunjinyan/suntest-for-laravel",
-    "type": "project",
+    "type": "library",
     "description": "孙进研的测试composer",
     "keywords": ["孙进研","进研"],
     "homepage": "https://github.com/sunjinyan/suntest",
