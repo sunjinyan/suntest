@@ -1,16 +1,26 @@
 {
     "name": "sunjinyan/suntest-for-laravel",
+    "type": "project",
+    "description": "孙进研的测试composer",
+    "keywords": ["孙进研","进研"],
+    "homepage": "https://github.com/sunjinyan/suntest",
+    "license": "MIT",
     "authors": [
         {
             "name": "sunjinyan",
             "email": "13683234298@163.com"
         }
     ],
-    "require": {},
+    "require": {
+        "php": ">=7.1.0",
+        "illuminate/support": "5.*",
+        "illuminate/events": "5.*",
+        "illuminate/config": "5.*"
+    },
     "autoload": {
         "psr-4": {
             "Sun\\Suntest\\": "src/"
         }
     },
-    "license": "MIT"
+    "minimum-stability": "stable"
 }
