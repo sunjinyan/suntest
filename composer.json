@@ -11,5 +11,6 @@
         "psr-4": {
             "Sun\\Suntest\\": "src/"
         }
-    }
+    },
+    "license": "MIT"
 }
